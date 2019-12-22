@@ -7,17 +7,21 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `joshuascott.io`,
+    author: `Joshua Scott`,
+    description: `Personal blog by Joshua Scott`,
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        name: `email`,
+        url: `mailto:hello@joshuascott.io`,
       },
       {
         name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://joshuascott.io/github`,
+      },
+      {
+        name: `twitter`,
+        url: `https://joshuascott.io/twitter`,
       },
     ],
   },
